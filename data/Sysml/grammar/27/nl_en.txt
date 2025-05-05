@@ -1,4 +1,0 @@
-After the charging begins, the system will monitor the battery level.
-If the battery level has not reached 100%, the system will continue to charge the battery;
-If the battery is fully charged, the system will stop the charging operation.
-During the charging process, the system continuously detects the battery level and decides whether to continue charging or end charging based on the monitoring results, until the battery is fully charged and the charging process is completed.

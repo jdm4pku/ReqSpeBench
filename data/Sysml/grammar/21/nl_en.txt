@@ -1,6 +1,0 @@
-The photography system involves three items: scenes, images, and photos.
-The main operations of the system include three actions: focusing, shooting, and photographing.
-The focusing operation obtains information from the scene and generates an image;
-The shooting operation uses this image to generate a photo.
-The photographing operation directly generates a photo from the scene, it first obtains information from the scene and generates an image through the focusing operation, and then passes the generated image to the shooting operation to generate a photo.
-In the photography process, the focusing operation and the shooting operation are executed in order, ensuring that the image can be smoothly passed to the shooting operation and finally generate a photo. The entire process connects different operations through binding and data flow, ensuring the complete conversion from scene to photo.

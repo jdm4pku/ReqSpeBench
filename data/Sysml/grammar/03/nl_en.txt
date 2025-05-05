@@ -1,1 +1,0 @@
-The vehicle is composed of multiple components, including an engine, a transmission system, and four wheels. The engine, transmission system, and wheels all belong to the type of vehicle components.

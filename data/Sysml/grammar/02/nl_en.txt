@@ -1,4 +1,0 @@
-Vehicles include three types: human-driven vehicles, power-driven vehicles, and hybrid vehicles. 
-Human-driven vehicles must designate a driver; 
-Power-driven vehicles must be equipped with an engine to provide power; 
-While hybrid vehicles need to support both the driver and the engine simultaneously.

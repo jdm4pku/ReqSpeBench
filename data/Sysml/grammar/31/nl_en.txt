@@ -1,4 +1,0 @@
-The system simulates the vehicle's motion trajectory through a series of dynamic calculations. 
-Firstly, the system calculates the position and speed of the vehicle at each time step based on the given power, mass, initial position, and initial speed parameters. 
-This process is completed through cyclic iteration, with each iteration calculating a new position and speed based on the current power value and updating the calculation results to the next iteration. 
-Finally, the system saves all the calculated positions to form a complete motion trajectory.

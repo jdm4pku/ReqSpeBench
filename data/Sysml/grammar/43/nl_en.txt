@@ -1,2 +1,0 @@
-The vehicle, by connecting with the controller, displays its various operational statuses.
-The system displays the current status of the vehicle, and through interaction with the controller, ensures that the vehicle can operate normally under different statuses.

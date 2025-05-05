@@ -1,3 +1,0 @@
-The colors of the traffic signal lights include three types: green, yellow, and red.
-The traffic signal light component contains an attribute to represent the current color, and the value of this attribute must be limited to one of these three colors.
-In addition, it should also include a traffic signal light component that allows passage, which is a subtype of the traffic signal light component, and redefines its color attribute as green.
