@@ -1,0 +1,3 @@
+The process of taking photos and displaying images is as follows:
+The user provides scene information through the camera, the system receives the scene through the camera's viewport, and performs a focusing operation to generate an image.
+Then, the system takes a photo based on the image, and sends the generated photo to the screen for display through the display port.

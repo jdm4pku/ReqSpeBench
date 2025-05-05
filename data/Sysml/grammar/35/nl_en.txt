@@ -1,0 +1,3 @@
+The process of vehicle start-up, operation, and shutdown:
+
+The system starts from the "off" state, and upon receiving the "vehicle start signal", it enters the "start" state; when it receives the "vehicle movement signal", the vehicle enters the "on" state; in the "on" state, if it receives the "vehicle shutdown signal", the vehicle re-enters the "off" state.

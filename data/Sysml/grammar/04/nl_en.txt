@@ -1,0 +1,4 @@
+Vehicles include three types: standard vehicles, small vehicles, and large vehicles.
+Standard vehicles contain an engine, within which there is a cylinder component, the number of cylinders ranges from 4 to 6, and is adjusted according to the type of vehicle.
+Small vehicles are a subtype of standard vehicles, with the number of cylinders in their engines redefined as 4.
+Large vehicles are also a subtype of standard vehicles, but the number of cylinders in their engines is redefined as 6.

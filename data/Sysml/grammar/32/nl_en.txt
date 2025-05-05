@@ -1,0 +1,4 @@
+The process of taking photos and displaying images is as follows:
+First, provide a scene, the system generates an image through the focusing operation,
+Then, take a photo based on the image.
+After the shooting is completed, the system sends the generated photo to the screen for display through the "display" action.

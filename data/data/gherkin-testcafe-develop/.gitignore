@@ -1,0 +1,9 @@
+node_modules/
+*.iml
+.idea
+.npmrc
+package-lock.json
+.history
+.yarn/cache
+.yarn/install-state.gz
+.DS_Store

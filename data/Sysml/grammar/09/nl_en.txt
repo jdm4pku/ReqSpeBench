@@ -1,0 +1,3 @@
+The vehicle involves two physical entities: fuel and personnel. 
+Specifically, the vehicle component includes a mass attribute and references a personnel entity as the driver. 
+The vehicle also includes a fuel tank component, which contains a fuel entity.

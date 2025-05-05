@@ -1,0 +1,3 @@
+*.rb
+!encoding.rb
+!i18n_lexer.rb

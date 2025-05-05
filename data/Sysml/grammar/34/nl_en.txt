@@ -1,0 +1,3 @@
+The sensor update process is as follows:
+When the sensor is ready, the system will perform an update operation for each sensor.
+Specifically, the system will check the readiness status of each sensor, if the sensor is ready, it will perform the update operation, ensuring that all ready sensors can update their status in a timely manner.

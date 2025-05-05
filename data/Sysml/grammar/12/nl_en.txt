@@ -1,0 +1,4 @@
+A water distribution system includes a water tank, a faucet, and a water supply pipeline. 
+The water tank provides hot and cold water through two valve interfaces. 
+The faucet accepts hot and cold water through two water inlet interfaces. 
+The system design allows hot and cold water to be distributed from the water tank to each faucet through different pipelines, each faucet contains hot and cold water inlets.

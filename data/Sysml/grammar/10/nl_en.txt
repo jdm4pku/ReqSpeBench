@@ -1,0 +1,5 @@
+The fuel management system includes a fuel tank and an engine. 
+The fuel tank is connected to the input port of the engine through an output port, responsible for supplying fuel to the engine, or returning the fuel. 
+Each port monitors the temperature attribute, used to indicate the temperature of the fuel. 
+In addition, the flow direction of fuel supply and return is distinguished, the output port is responsible for supplying fuel to the system, while the input port accepts and returns fuel. 
+The function of the entire system is to ensure the effective management of fuel between supply and return, and maintain temperature control to ensure the normal operation of the system.
